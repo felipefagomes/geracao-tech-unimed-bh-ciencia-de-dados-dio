@@ -1,0 +1,2 @@
+# Dio - Geração Tech Unimed-BH - Ciência de Dados
+Projetos práticos do Bootcamp Geração Tech Unimed-BH - Ciência de Dados promovido pela DIO utilizando tecnologias atuais da área de Ciência de Dados como, por exemplo, Python, R, bancos de dados SQL e NoSQL, AWS e Machine Learning.
